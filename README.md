@@ -1,6 +1,8 @@
 # Resilient event-driven pipeline
 
-**Portfolio status:** Architecture concept. This repository currently contains a README only; Terraform, application code, tests, deployment, and failure-replay evidence are still to be added.
+**Portfolio status:** Architecture concept. This repository currently contains documentation only; Terraform, application code, tests, deployment, and failure-replay evidence are still to be added.
+
+The [project case study](CASE-STUDY.md) summarizes the design and evidence still needed.
 
 ## Intended architecture
 
